@@ -1,3 +1,3 @@
 variable "duration" {
-  default = "5m"
+  default = "30s"
 }
